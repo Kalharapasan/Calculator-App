@@ -2,8 +2,8 @@
 
 This is my **first Android project** – a simple **Calculator App** built using Java and XML in Android Studio.  
 It is designed to perform basic arithmetic operations quickly and easily with a clean and simple interface.  
-![WhatsApp Image 2025-09-27 at 23 12 38_7edbecf9](https://github.com/user-attachments/assets/7a152fb2-472c-45e8-a21e-2f7a75b84dc8)
 
+![Calculator App Screenshot](https://github.com/user-attachments/assets/7a152fb2-472c-45e8-a21e-2f7a75b84dc8)
 
 ---
 
@@ -22,7 +22,7 @@ It serves as a starting point for my journey into mobile app development.
 
 ---
 
-## 🛠️ Technologies Used  
+## 🛠 Technologies Used  
 - **Programming Language:** Java  
 - **UI Layouts:** XML  
 - **IDE:** Android Studio  
@@ -58,7 +58,7 @@ It serves as a starting point for my journey into mobile app development.
 ---
 
 ## 📷 Screenshots  
-*(Add screenshots here to show the main UI and features)*  
+*(Add screenshots here to show more UI features)*  
 
 ---
 
@@ -113,10 +113,10 @@ If you’d like to improve this project, please fork the repository and submit a
 ---
 
 ## 👤 Author  
-Developed by **Your Name**  
-- GitHub: [https://github.com/Kalharapasan] 
+Developed by **Kalharapasan**  
+- GitHub: [Kalharapasan](https://github.com/Kalharapasan)  
 
 ---
 
 ## 📜 License  
-		[License](./LICENSE.md): Proprietary – Permission Required
+[License](./LICENSE.md): **Proprietary – Permission Required**
