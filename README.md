@@ -3,7 +3,9 @@
 This is my **first Android project** – a simple **Calculator App** built using Java and XML in Android Studio.  
 It is designed to perform basic arithmetic operations quickly and easily with a clean and simple interface.  
 
-![Calculator App Screenshot](https://github.com/user-attachments/assets/7a152fb2-472c-45e8-a21e-2f7a75b84dc8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a152fb2-472c-45e8-a21e-2f7a75b84dc8" alt="Calculator App Screenshot" width="300"/>
+</p>
 
 ---
 
